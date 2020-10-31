@@ -18,6 +18,6 @@ string_price = str(price).replace(',', '')
 final_price = float(string_price)
 
 if final_price < 30000:
-    print('You can now buy')
+    print('You can now buy. Ksh: ', final_price)
 else:
-    print('Price still high')
+    print('Price still high. Ksh', final_price)
