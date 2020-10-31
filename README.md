@@ -1,3 +1,3 @@
 # Python simple web scrapper
 
-### Track Jumia product price.
+Track Jumia's product prices. 
